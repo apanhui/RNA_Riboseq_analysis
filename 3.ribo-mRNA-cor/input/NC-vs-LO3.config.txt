@@ -1,0 +1,13 @@
+Samples,Data_Type,Conditions
+NC-1,Ribo-Seq,Control
+NC-2,Ribo-Seq,Control
+NC-3,Ribo-Seq,Control
+LO3-1,Ribo-Seq,Treated
+LO3-2,Ribo-Seq,Treated
+LO3-3,Ribo-Seq,Treated
+NC-1_RNA,RNA-Seq,Control
+NC-2_RNA,RNA-Seq,Control
+NC-3_RNA,RNA-Seq,Control
+LO3-1_RNA,RNA-Seq,Treated
+LO3-2_RNA,RNA-Seq,Treated
+LO3-3_RNA,RNA-Seq,Treated
